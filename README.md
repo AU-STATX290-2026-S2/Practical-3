@@ -19,7 +19,9 @@ package `palmerpenguins`.
 Use this repository as a template for your own personal answers.
 
 (i) Click "Use this template" then "Create a new repository" and follow prompts to create a personal copy of this repo.
+
 (ii) Clone the repo to your local computer with RStudio: **File > New Project > Version Control > Git**
+
 (iii) Follow the prompt and paste your **personal repo**'s URL.
 
 ## 2. Get the data

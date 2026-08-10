@@ -37,7 +37,7 @@ the top. If any `library()` call fails with something like
 install the missing package(s) from the R console:
 
 ```r
-install.packages(c("ggplot2", "dplyr", "naniar", "palmerpenguins", "GGally"))
+install.packages(c("ggplot2", "tidyr", "dplyr", "naniar", "palmerpenguins", "GGally"))
 ```
 
 You only need to do this once per machine. After installation `library()` will

@@ -83,8 +83,7 @@ errors are common and well documented.
 
 - **"Package not found"** → install it from the Console (see step 3).
 - **`penguins` object not found** → make sure you've run
-  `library(palmerpenguins)` in your session (just installing the package
-  isn't enough — it needs to be loaded too).
+  `library(palmerpenguins)` in your session to load it.
 - **Document won't render but code runs fine chunk-by-chunk** → try
   Session > Restart R, then Render again; this catches missing `library()`
   calls or objects created out of order.
